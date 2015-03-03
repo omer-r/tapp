@@ -1,20 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "org.coenraets.employeedirectory"
+        id        = "org.tavi.app"
         versionCode="10"
         version   = "1.1.0">
 
     <!-- versionCode is optional and Android only -->
 
-    <name>Employee Directory</name>
+    <name>Tavi</name>
 
-    <description>
-        A simple employee directory application
-    </description>
+    <description>Tavi application</description>
 
-    <author href="http://coenraets.org" email="ccoenraets@gmail.com">
-        Christophe Coenraets
+    <author href="http://tavi-delivery.com" email="omereemy@outlook.com">
+        Omer Reemy
     </author>
 
 </widget>
