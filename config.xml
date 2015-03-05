@@ -14,5 +14,7 @@
     <author href="http://tavi-delivery.com" email="omereemy@outlook.com">
         Omer Reemy
     </author>
+    <icon src="res/tavi.png" />
+    
 
 </widget>
